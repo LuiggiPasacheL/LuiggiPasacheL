@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LuiggiPasacheL
 - 👀 I’m interested in backend development
-- 🌱 I’m currently learning Java Spring and Jetpack Compose
+- 🌱 I’m currently machine learning
 <!-- TODO
 - ADD Github Stats
 --->
