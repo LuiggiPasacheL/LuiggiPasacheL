@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @LuiggiPasacheL
 - 👀 I’m interested in backend development
-- 🌱 I’m currently machine learning
 <!-- TODO
 - ADD Github Stats
 --->
