@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @LuiggiPasacheL
-- 👀 I’m interested in backend development
 <!-- TODO
 - ADD Github Stats
 --->
