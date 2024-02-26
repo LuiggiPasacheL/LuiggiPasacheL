@@ -1,11 +1,13 @@
 # Hi, I'm Luiggi Pasache! 👋
 
-Passionate about fullstack development with a strong focus on backend and experience in DevOps. I love building robust and efficient technological solutions.
+Passionate about fullstack development with a strong focus on backend, DevOps, and mobile development. I love building robust and efficient technological solutions.
 
 ## Skills
-- Fullstack Development: JavaScript, Node.js, React, Vue, etc.
-- Backend: Python, Django, Flask, Java, Spring Boot, Go, etc.
+
+- Fullstack Development: JavaScript, Node.js, React, etc.
+- Backend: Python, Django, Flask, Java, Spring Boot, etc.
 - DevOps: Docker, Kubernetes, CI/CD, deployment automation, etc.
+- Mobile Development: Jetpack Compose (Android).
 <!-- TODO
 - ADD Github Stats
 --->
