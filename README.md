@@ -5,7 +5,7 @@ Passionate about fullstack development with a strong focus on backend, DevOps, a
 ## Skills
 
 - Fullstack Development: JavaScript, Node.js, React, etc.
-- Backend: Python, Django, Flask, Java, Spring Boot, etc.
+- Backend: Python, Java, Go, Php etc.
 - DevOps: Docker, Kubernetes, CI/CD, deployment automation, etc.
 - Mobile Development: Jetpack Compose (Android).
 <!-- TODO
