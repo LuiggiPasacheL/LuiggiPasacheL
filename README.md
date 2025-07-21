@@ -2,6 +2,13 @@
 
 Passionate about fullstack development with a strong focus on backend, DevOps, and mobile development. I love building robust and efficient technological solutions.
 
+## Statistics
+
+<p>
+    <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=luiggipasachel&show_icons=true&count_private=true">
+    <img height="50%" width="auto" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luiggipasachel&show_icons=true&locale=en&layout=compact&count_private=true" alt="luiggipasachel" />
+</p>
+
 ## Skills
 
 ### 🧠 Core Programming
@@ -32,10 +39,3 @@ Passionate about fullstack development with a strong focus on backend, DevOps, a
 - Apidog, Postman, Insomnia
 - VS Code, Neovim, JetBrains IDEs  
 - Linux / Shell scripting
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luiggipasachel&show_icons=true&locale=en&layout=compact" alt="luiggipasachel" /></p>
-
-<!---
-LuiggiPasacheL/LuiggiPasacheL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
