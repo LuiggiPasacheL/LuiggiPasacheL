@@ -5,8 +5,8 @@ Passionate about fullstack development with a strong focus on backend, DevOps, a
 ## Statistics
 
 <p align='center'>
-    <img height="50%" width="60%" src="https://github-readme-stats-lime-seven-76.vercel.app/api?username=luiggipasachel&rank_icon=github&show_icons=true&count_private=true&hide_border=true&hide=issues,contribs&locale=en&layout=compact" alt="luiggipasachel github stats">
-    <img height="50%" width="35%" src="https://github-readme-stats-lime-seven-76.vercel.app/api/top-langs?username=luiggipasachel&count_private=true&show_icons=true&locale=en&layout=compact" alt="luiggipasachel lang stats" />
+    <img height="50%" width="60%" src="https://github-readme-stats-lime-seven-76.vercel.app/api?username=luiggipasachel&rank_icon=github&show_icons=true&count_private=true&hide_border=true&hide=issues,contribs&locale=en" alt="luiggipasachel github stats">
+    <img height="50%" width="35%" src="https://github-readme-stats-lime-seven-76.vercel.app/api/top-langs?username=luiggipasachel&count_private=true&show_icons=true&locale=en&layout=compact&hide=EJS,HTML,SCSS" alt="luiggipasachel lang stats" />
 </p>
 
 ## Skills
